@@ -5,9 +5,11 @@
 - 2024.02 - 2024.07 ｜ 스파르타코딩클럽 내일배움캠프 iOS 앱 개발 트랙 수료
 
 ### 💻 Projects
-- [🍺 오늘몇잔](https://github.com/SOPT-all/35-SOPKATHON-iOS-A3A3) | SOPT 해커톤 대상 (2024.11)
-- [📝 안전신문고](https://github.com/SOPT-all/35-COLLABORATION-iOS-SafetyReport) | 리디자인 (2024.11)
-- [🚞 Travel Tale](https://github.com/TEAM-OMG-iOS/TravelTale) | iOS 앱 출시 (2024.05 - 2024.07)
+| project | detail |
+|:--------|:---------|
+| 🍺 오늘몇잔 / [github](https://github.com/SOPT-all/35-SOPKATHON-iOS-A3A3) | SOPT 해커톤 대상 (2024.11) |
+| 📝 안전신문고 / [github](https://github.com/SOPT-all/35-COLLABORATION-iOS-SafetyReport) | 리디자인 (2024.11) |
+| 🚞 Travel Tale / [github](https://github.com/TEAM-OMG-iOS/TravelTale) | Appstore 출시 (2024.05 - 2024.07) |
 
 <!--
 **yurim830/yurim830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
