@@ -7,8 +7,8 @@
 ### 💻 Projects
 | project | detail |
 |:--------|:---------|
-| 🍺 오늘몇잔 / [github](https://github.com/SOPT-all/35-SOPKATHON-iOS-A3A3) | SOPT 해커톤 대상 (2024.11) |
-| 📝 안전신문고 / [github](https://github.com/SOPT-all/35-COLLABORATION-iOS-SafetyReport) | 리디자인 (2024.11) |
+| 🍺 오늘몇병 / [github](https://github.com/SOPT-all/35-SOPKATHON-iOS-A3A3) | SOPT 해커톤 대상 (2024.11) |
+| 📝 안전신문고 / [github](https://github.com/SOPT-all/35-COLLABORATION-iOS-SafetyReport) | 정부 앱 리디자인 (2024.11) |
 | 🚞 Travel Tale / [github](https://github.com/TEAM-OMG-iOS/TravelTale) | Appstore 출시 (2024.05 - 2024.07) |
 
 <!--
