@@ -7,10 +7,10 @@
 ### 💻 Projects
 | project | detail |
 |:--------|:---------|
-| 🐿️ Acon / [github](https://github.com/TeamACON/ACON-iOS) | 맛집 지도 (2024.12 - ing) |
+| 🐿️ Acon / [github](https://github.com/TeamACON/ACON-iOS) | 맛집 지도 [[Appstore](https://apps.apple.com/kr/app/acon/id6740120473)] (2024.12 - ing) |
 | 🍺 오늘몇병 / [github](https://github.com/SOPT-all/35-SOPKATHON-iOS-A3A3) | SOPT 해커톤 대상 (2024.11) |
 | 📝 안전신문고 / [github](https://github.com/SOPT-all/35-COLLABORATION-iOS-SafetyReport) | 정부 앱 리디자인 (2024.11) |
-| 🚞 Travel Tale / [github](https://github.com/TEAM-OMG-iOS/TravelTale) | Appstore 출시 (2024.05 - 2024.07) |
+| 🚞 Travel Tale / [github](https://github.com/TEAM-OMG-iOS/TravelTale) | 여행 계획/기록 앱 [[Appstore](https://apps.apple.com/kr/app/travel-tale-%ED%8A%B8%EB%9E%98%EB%B8%94-%ED%85%8C%EC%9D%BC/id6505096183)] (2024.05 - 2024.07) |
 
 <!--
 **yurim830/yurim830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
